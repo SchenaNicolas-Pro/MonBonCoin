@@ -1,0 +1,72 @@
+[
+{
+    "endDate": [
+        "2023-12-31"
+    ],
+    "hasContact": [
+        {
+            "foaf:homepage": [
+                "http://www.le-relais-nordique.com/"
+            ],
+            "schema:email": [
+                "le.relais.nordique@gmail.com"
+            ],
+            "schema:telephone": [
+                "+33 4 50 59 81 25"
+            ]
+        }
+    ],
+    "hasRepresentation": [
+        {
+            "ebucore:locator": [
+                "https://upload.wikimedia.org/wikipedia/commons/b/b6/Maison_Monsieur_Beynier_-_Ch%C3%A2tillon-sur-Chalaronne_%28FR01%29_-_2023-07-18_-_1.jpg"
+            ]
+        }
+    ],
+    "isLocatedAt": {
+        "schema:addressLocality": [
+            "Giron"
+        ],
+        "schema:latitude": [
+            "46.225852"
+        ],
+        "schema:longitude": [
+            "5.774498"
+        ],
+        "schema:postalCode": [
+            "01130"
+        ],
+        "schema:streetAddress": [
+            "50 route de la Pesse"
+        ]
+    },
+    "rdfs:comment": [
+        "Hôtel de montagne entièrement rénové : de la chambre single à la suite familiale de 6 places. Lieu idéal pour étape et séjour en famille ou groupe. Chambres spacieuses de 18 à 45m² entièrement équipée : WIFI, TV, salle de bains et wcséparés."
+    ],
+    "rdfs:label": [
+        "Hôtel Le Relais Nordique"
+    ],
+    "schema:maxPrice": [
+        "10"
+    ],
+    "schema:minPrice": [
+        "10",
+        "7"
+    ],
+    "schema:openingHoursSpecification": [
+        {
+            "schema:closes": "00:00",
+            "schema:opens": "07:00:00",
+            "additionalInformation": "Fermé le dimanche soir.",
+            "schema:validFrom": "2023-12-02T00:00:00",
+            "schema:validThrough": "2023-12-31T23:59:59"
+        }
+    ],
+    "schema:priceCurrency": [
+        "EUR"
+    ],
+    "startDate": [
+        "2023-01-01"
+    ]
+}
+]

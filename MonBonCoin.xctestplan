@@ -1,0 +1,38 @@
+{
+  "configurations" : [
+    {
+      "id" : "AA80FA7C-FE23-4281-BBF5-4C6ED1CD06B9",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "codeCoverage" : {
+      "targets" : [
+        {
+          "containerPath" : "container:MonBonCoin.xcodeproj",
+          "identifier" : "90E87B112A8370DE00E78A9B",
+          "name" : "MonBonCoin"
+        }
+      ]
+    },
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:MonBonCoin.xcodeproj",
+      "identifier" : "90E87B112A8370DE00E78A9B",
+      "name" : "MonBonCoin"
+    },
+    "testExecutionOrdering" : "random"
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:MonBonCoin.xcodeproj",
+        "identifier" : "909719A52B4D780E00F31153",
+        "name" : "MonBonCoinTests"
+      }
+    }
+  ],
+  "version" : 1
+}
